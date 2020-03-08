@@ -1,4 +1,5 @@
-# Xbrl-JSON Converter: Your XBRL file from XML to Json format.
+# Xbrl-JSON Converter
+Your XBRL file from XML to Json format.
 
 Back-End is a Java REST API that converts XBRL-based financial documents from XML to Json format. Front-End is an Angular app.
 
