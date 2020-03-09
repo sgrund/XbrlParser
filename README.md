@@ -1,5 +1,5 @@
 # Xbrl-JSON Converter
-Your XBRL file from XML to Json format.
+Your XBRL-based financial document from XML to Json format.
 
 How to convert a xBRL-XML report to xBRL-JSON (via file): https://youtu.be/Xr6v4jL535w;
 
